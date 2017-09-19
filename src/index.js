@@ -18,7 +18,7 @@ ReactDOM.render(
     <LoginForm onSubmit={login} />
 
     <h1><pre>PoemWriter</pre></h1>
-    <PoemWriter />
+    <PoemWriter  />
   </div>,
   document.getElementById('root')
 );
